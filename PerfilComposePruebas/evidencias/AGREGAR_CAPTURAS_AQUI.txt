@@ -1,0 +1,6 @@
+Agrega en esta carpeta las capturas solicitadas:
+
+01_estado_inicial.png
+02_boton_siguiendo.png
+03_contador_incrementado.png
+04_pruebas_aprobadas.png
